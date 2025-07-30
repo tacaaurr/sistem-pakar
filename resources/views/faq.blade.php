@@ -618,8 +618,7 @@ var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function
 	</svg>
 	<div id="page" class="site"> <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
 		<header id="header" class="clearfix">
-			<div class="wrap normal"> <a id="logo" href="/"><img
-						src="depresi-assets/wp-content/themes/mha_s2s/assets/images/mha-logo.png" alt="MHA Screening" /></a>
+			<div class="wrap normal">
 				<div id="utility-menu" class="utility-menu relative">
 					<div id="search-header"> <button id="search-toggle" aria-expanded="false"
 							aria-controls="search-form" data-href="/search/"> <strong

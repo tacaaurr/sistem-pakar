@@ -212,7 +212,7 @@
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-md-5 text-center mb-5">
-                        <h4>Kelompok X</h4>
+                        <h4>Kelompok 5</h4>
                         <p class="lead">Sistem Pakar</p>
                     </div>
                 </div>
@@ -223,7 +223,7 @@
                         <div class="team-wrap">
                             <img src="landing/img/team2.jpg" alt="">
                             <p>Ketua</p>
-                            <h6>Alfi Atqia Rinjani</h6>
+                            <h6>Ridwan Abdul Rohman</h6>
                             <div class="social-team">
                                 <ul class="list-social-team">
                                     <li class="icon-team tipped" data-title="<span>github</span>"
@@ -238,11 +238,30 @@
                             </div>
                         </div>
                     </div>
+                     <div class="col mt-4 m-xl-0 text-center">
+                        <div class="team-wrap">
+                            <img src="landing/img/team4.jpg" alt="">
+                            <p>Web Development 1</p>
+                            <h6>Tasya Urfah</h6>
+                            <div class="social-team">
+                                <ul class="list-social-team">
+                                    <li class="icon-team tipped" data-title="<span>twitter</span>"
+                                        data-tipper-options='{"direction":"bottom","follow":"true","margin":25}'>
+                                        <a href="#">&#xf099;</a>
+                                    </li>
+                                    <li class="icon-team tipped" data-title="<span>facebook</span>"
+                                        data-tipper-options='{"direction":"bottom","follow":"true","margin":25}'>
+                                        <a href="#">&#xf09a;</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
                     <div class="col mt-4 m-xl-0 text-center">
                         <div class="team-wrap">
                             <img src="landing/img/team4.jpg" alt="">
-                            <p>Web Development</p>
-                            <h6>Andrian</h6>
+                            <p>Web Development 2</p>
+                            <h6>Zaki Aditinya Warman Ramli</h6>
                             <div class="social-team">
                                 <ul class="list-social-team">
                                     <li class="icon-team tipped" data-title="<span>twitter</span>"
@@ -261,7 +280,7 @@
                         <div class="team-wrap">
                             <img src="landing/img/team3.jpg" alt="">
                             <p>Design process</p>
-                            <h6>Canggih Wahyu Rinaldi</h6>
+                            <h6>Juliani Putri</h6>
                             <div class="social-team">
                                 <ul class="list-social-team">
                                     <li class="icon-team tipped" data-title="<span>github</span>"
