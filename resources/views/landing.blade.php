@@ -121,7 +121,7 @@
         <!-- Hero Section -->
 
         <div class="section full-height mob-height">
-            <div class="background-parallax" style="background-image: url('landing/img/full-2.jpg')"
+            <div class="background-parallax" style="background-image: url('landing/img/ful-2.jpg')"
                 data-enllax-ratio=".5" data-enllax-type="background" data-enllax-direction="vertical"></div>
             <div class="hero-center-text-wrap">
                 <div class="container text-left">
